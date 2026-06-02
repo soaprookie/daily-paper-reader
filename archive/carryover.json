@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-01T22:44:58.358735+00:00",
-  "updated_date": "20260601",
+  "generated_at": "2026-06-02T22:29:52.181057+00:00",
+  "updated_date": "20260602",
   "carryover_days": 5,
   "tag_states": {
     "paleo-carbon": {
-      "updated_date": "20260601",
+      "updated_date": "20260602",
       "carryover_days": 5,
       "items": []
     }
