@@ -1,0 +1,16 @@
+{
+  "mode": "extend",
+  "generated_at": "2026-08-28T02:49:15.515249+00:00",
+  "stats": {
+    "mode": "extend",
+    "tag_count": 1,
+    "deep_divecandidates": 0,
+    "deep_cap": 11,
+    "deep_selected": 0,
+    "quick_candidates": 0,
+    "quick_skim_target": 16,
+    "quick_selected": 0
+  },
+  "deep_dive": [],
+  "quick_skim": []
+}
